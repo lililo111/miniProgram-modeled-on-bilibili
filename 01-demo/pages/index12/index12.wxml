@@ -1,0 +1,4 @@
+<navigator url="../index11/index11" open-type="navigate">index11</navigator>
+<navigator url="../index11/index11" open-type="redirect">index11</navigator>
+<navigator url="../index/index" open-type="switchTab">index11</navigator>
+<navigator url="../index11/index11" open-type="reLaunch">index11</navigator>

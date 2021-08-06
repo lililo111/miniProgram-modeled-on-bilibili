@@ -1,0 +1,5 @@
+/* components/MyHeader/MyHeader.wxss */
+.my_header {
+  font-size: 50px;
+  background-color: yellow;
+}

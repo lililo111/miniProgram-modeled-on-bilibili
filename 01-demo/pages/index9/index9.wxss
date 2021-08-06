@@ -1,0 +1,4 @@
+.hover_class {
+  background-color: aqua;
+  opacity: .5;
+}

@@ -1,0 +1,8 @@
+<view>
+  hellow world || {{msg}}
+  <view>num:{{num}}</view>
+  <view>isBoy:{{isBoy}}</view>
+  <view>person.name:{{person.name}} -- person.height:{{person.height}} </view>
+  <view data-id="{{title}}">title</view>
+  <view> <checkbox checked="{{ture}}"></checkbox> </view>
+</view>
